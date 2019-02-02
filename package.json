@@ -1,0 +1,12 @@
+{
+  "name": "lambda_twitter_token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "(rm -f lambda.zip && cd src && npm install && zip -r ../lambda.zip *)"
+  },
+  "author": "",
+  "license": "MIT"
+}

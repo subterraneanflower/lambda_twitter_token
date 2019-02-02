@@ -1,0 +1,15 @@
+{
+  "name": "lambda_token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "token.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "oauth-1.0a": "^2.2.5"
+  }
+}
